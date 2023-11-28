@@ -1,0 +1,69 @@
+.ant-upload-picture-card-wrapper,
+.ant-upload-wrapper,
+.css-dev-only-do-not-override-17a39f8,
+.ant-upload-list,
+.ant-upload-list-picture-card,
+.ant-upload,
+.ant-upload-select,
+.ant-upload-list-item-image,
+.ant-upload-list-item-thumbnail,
+.ant-upload-list-item-container {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.ant-upload-list-item-container .css-dev-only-do-not-override-17a39f8 {
+  width: 10px !important;
+}
+
+.ant-tooltip-inner {
+  display: none;
+}
+
+.ant-modal-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+}
+
+.ant-modal-body img {
+  height: 100%;
+}
+
+.ant-modal-content {
+  width: 50vw;
+  height: 75vh;
+}
+
+.ant-modal-content {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.ant-modal-wrap {
+  overflow: hidden;
+}
+
+.user-info-student {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  /* background: rgba(0, 0, 0, 0.5); */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.user-info-student .user-info-box {
+  margin: 50px;
+  background: white;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+  width: 50%;
+  height: 50%;
+  position: relative;
+}
